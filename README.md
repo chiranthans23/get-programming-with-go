@@ -1,2 +1,2 @@
 # get-programming-with-go
-List of all programs I tried when I went through the "get programming with go"
+List of all excercise programs chapters-wise in the "get programming with go" book
