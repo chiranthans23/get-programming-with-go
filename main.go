@@ -1,7 +1,7 @@
 package main
 
 import (
-	c1 "github.com/chiranthans23/get-programming-with-go/chapter_1"
+	c1 "github.com/get-programming-with-go/chapter_1"
 )
 
 func main() {
