@@ -16,4 +16,5 @@ func main() {
 
 	fmt.Printf("If you say Chiranthan is GOlang expert, I say %v\n", c3.ContainsString("Cisco", "Cisco"))
 	c3.ComapreValues(4, 3, "<=")
+	c3.LetsLoop(3)
 }
